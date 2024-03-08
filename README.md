@@ -1,12 +1,14 @@
 👋 Merhaba, ben @yakut-irfan
 
-👀 Veri bilimi alanına ilgi duyuyorum ve bu alanda çalışmalar yapıyorum.
+👀 Veri bilimi alanına ilgi duyuyorum ve bu alanda çalışmalar yapıyorum. Özellikle veri analizi, makine öğrenmesi ve yapay zeka konularına odaklanıyorum.
 
-🌱 Şu anda veri bilimi, makine öğrenmesi ve yapay zeka konularında kendimi geliştiriyorum.
+🌱 Şu anda veri bilimi, makine öğrenmesi ve yapay zeka konularında kendimi geliştiriyorum. R, Python gibi programlama dilleriyle veri analizi yapıyor ve yeni teknikleri öğrenmeye çalışıyorum.
 
-💞️ Veri bilimi projelerinde işbirliği yapmaya açığım.
+💼 Şu anda bir veri bilimcisi olarak çalışıyorum ve endüstriyel projelerde yer alıyorum. Ayrıca açık kaynaklı projelere katkıda bulunmaktan da mutluluk duyarım.
 
-📫 Benimle iletişime geçmek için GitHub üzerinden ya da irfan.yakut@hotmail.com adresine mesaj atabilirsiniz.
+💞️ Veri bilimi projelerinde işbirliği yapmaya açığım. Özellikle makine öğrenmesi modelleri geliştirmek, veri analizi yapmak ve büyük veri setlerini işlemek gibi konularda işbirliği yapmaktan keyif alırım.
+
+📫 Benimle iletişime geçmek için GitHub üzerinden ya da irfan.yakut@hotmail.com adresine mesaj atabilirsiniz. Ayrıca LinkedIn profilimden de benimle bağlantı kurabilirsiniz.
 
 
 
