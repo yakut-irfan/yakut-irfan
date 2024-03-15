@@ -2,7 +2,7 @@
 
 👀 Veri bilimi alanına ilgi duyuyorum ve bu alanda çalışmalar yapıyorum. Özellikle veri analizi, makine öğrenmesi ve yapay zeka konularına odaklanıyorum.
 
-🌱 Şu anda veri bilimi, makine öğrenmesi ve yapay zeka konularında kendimi geliştiriyorum. R, Python gibi programlama dilleriyle veri analizi yapıyor ve yeni teknikleri öğrenmeye çalışıyorum.
+🌱 Şu anda veri bilimi, makine öğrenmesi ve yapay zeka konularında kendimi geliştiriyor ve çalışmalar yapıyorum. R, Python gibi programlama dilleriyle veri analizi yapıyor ve yeni teknikleri öğrenmeye ve uygulamaya çalışıyorum.
 
 💼 Şu anda bir veri bilimcisi olarak çalışıyorum ve endüstriyel projelerde yer alıyorum. Ayrıca açık kaynaklı projelere katkıda bulunmaktan da mutluluk duyarım.
 
